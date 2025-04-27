@@ -3,7 +3,7 @@
   <br>
   <a href="https://github.com/Pawan-Yaduveer/HashBreaker.git"><img src="https://image.ibb.co/bSwkMe/bitmap.png" alt="HashBreaker"></a>
   <br>
-  Hash Buster
+  HashBreaker
   <br>
 </h1>
 
