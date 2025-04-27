@@ -1,8 +1,12 @@
 {
   "generalSettings": {
-    "shouldScanRepo": true
+    "shouldScanRepo": true,
+    "scanInterval": "daily", 
+    "autoUpdate": true
   },
   "checkRunSettings": {
-    "vulnerableCheckRunConclusionLevel": "failure"
+    "vulnerableCheckRunConclusionLevel": "failure",
+    "failureThreshold": 3,
+    "notifyOnFailure": true
   }
 }
