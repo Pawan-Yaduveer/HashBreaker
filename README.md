@@ -18,7 +18,7 @@
   </a>
 </p>
 
-![demo](https://i.ibb.co/HLfsMphX/Screenshot-2025-04-28-014852.png)
+![demo](https://ibb.co/HLfsMphX)
 
 ## Features
 - Automatic hash type identification
@@ -47,7 +47,7 @@ Yep, just specify a directory and Hash Buster will go through all the files and 
 **Usage:** `buster -d /root/Documents`
 ### Cracking hashes from a file
 
-Hash Buster can find your hashes even if they are stored in a file like this
+HashBreaker can find your hashes even if they are stored in a file like this
 ```
 simple@gmail.com:21232f297a57a5a743894a0e4a801fc3
 {"json@gmail.com":"d033e22ae348aeb5660fc2140aec35850c4da997"}
