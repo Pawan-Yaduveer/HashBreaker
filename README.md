@@ -18,7 +18,7 @@
   </a>
 </p>
 
-![demo](https://image.ibb.co/fnXWBe/Screenshot_2018_09_20_14_02_05.png)
+![demo](https://ibb.co/HLfsMphX)
 
 ## Features
 - Automatic hash type identification
