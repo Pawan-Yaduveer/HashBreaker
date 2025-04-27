@@ -30,21 +30,21 @@
 - Multi-threading
 
 ## Insallation & Usage
-> **Note:** Hash Buster isn't compatible with python2, run it with python3 instead.
-> Also, Hash-Buster uses some APIs for hash lookups, check the source code if you are paranoid.
+> **Note:** HashBreaker isn't compatible with python2, run it with python3 instead.
+> Also, HashBreaker uses some APIs for hash lookups, check the source code if you are paranoid.
 
-Hash-Buster can be run directly from the python script but I highly suggest you to install it with `make install`
+HashBreaker can be run directly from the python script but I highly suggest you to install it with `make install`
 
 After the installation, you will be able to access it with `buster` command.
 
 ### Cracking a single hash
 
-You don't need to specify the hash type. Hash Buster will identify and *crack* it under 3 seconds.
+You don't need to specify the hash type. HashBreaker will identify and *crack* it under 3 seconds.
 
 **Usage:** `buster -s <hash>`
 ### Finding hashes from a directory
 
-Yep, just specify a directory and Hash Buster will go through all the files and directories present in it, looking for hashes.
+Yep, just specify a directory and HashBreaker will go through all the files and directories present in it, looking for hashes.
 
 **Usage:** `buster -d /root/Documents`
 ### Cracking hashes from a file
@@ -65,4 +65,4 @@ Multi-threading can incredibly minimize the overall speed when you have a lot of
 `buster -f /root/hashes.txt -t 10`
 
 ### License
-Hash-Buster is licensed under [MIT License](https://github.com/s0md3v/Hash-Buster/blob/master/LICENSE).
+HashBreaker is licensed under [MIT License](https://github.com/s0md3v/Hash-Buster/blob/master/LICENSE).
