@@ -65,4 +65,4 @@ Multi-threading can incredibly minimize the overall speed when you have a lot of
 `buster -f /root/hashes.txt -t 10`
 
 ### License
-HashBreaker is licensed under [MIT License](https://github.com/s0md3v/Hash-Buster/blob/master/LICENSE).
+HashBreaker is licensed under [MIT License](https://github.com/Pawan-Yaduveer/HashBreaker/blob/main/LICENSE).
