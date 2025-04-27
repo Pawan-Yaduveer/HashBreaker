@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/s0md3v/Hash-Buster"><img src="https://image.ibb.co/bSwkMe/bitmap.png" alt="Hash Buster"></a>
+  <a href="https://github.com/Pawan-Yaduveer/HashBreaker.git"><img src="https://image.ibb.co/bSwkMe/bitmap.png" alt="Hash Buster"></a>
   <br>
   Hash Buster
   <br>
