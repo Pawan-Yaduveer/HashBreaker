@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <br>
   <a href="https://github.com/Pawan-Yaduveer/HashBreaker.git"><img src="https://image.ibb.co/bSwkMe/bitmap.png" alt="HashBreaker"></a>
@@ -18,7 +17,10 @@
   </a>
 </p>
 
-![demo](https://i.ibb.co/6c7xpJXN/Screenshot-2025-04-28-014852.png)
+<!-- Center the demo image -->
+<p align="center">
+  <img src="https://i.ibb.co/6c7xpJXN/Screenshot-2025-04-28-014852.png" alt="demo">
+</p>
 
 ## Features
 - Automatic hash type identification
