@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HashBreaker Web</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>HashBreaker 🔓</h1>
+        <form method="POST">
+            <input type="text" name="hash_input" placeholder="Enter hash (MD5/SHA1/SHA256...)" required>
+            <button type="submit">Crack</button>
+        </form>
+        {% if result %}
+            <p class="result">Result: <strong>{{ result }}</strong></p>
+        {% endif %}
+    </div>
+</body>
+</html>
